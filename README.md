@@ -2,8 +2,6 @@
 
 An experienced Full Stack (Frontend Heavy) Software Engineer with a couple of years of expertise in e-commerce, event tech, edutech, HRTech and CRM industries. I bring a wealth of experience in development, advocacy, problem-solving and architecture design. 
 
-[Here are some ideas to get you started:
-
 ## 🛠️ Technologies & Tools
 
 <p align="left">
