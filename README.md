@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Ken
 
-
-<!--
 An experienced Full Stack Software Engineer with a couple of years of expertise in e-commerce, event tech, edutech, HRTech and CRM industries. I bring a wealth of experience in development, advocacy, problem-solving and architecture design. 
 
 [Here are some ideas to get you started:
@@ -18,4 +16,3 @@ An experienced Full Stack Software Engineer with a couple of years of expertise 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
--->
